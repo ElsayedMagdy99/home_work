@@ -2,6 +2,7 @@
 { String name = "Alice"; name = 123; print(name); } ```*/
 void main() {
   String name = 'Alice';
- // name = 123;
+  name = 123;
+  print(name);
   // A value of type 'int' can't be assigned to a variable of type 'String'
 }

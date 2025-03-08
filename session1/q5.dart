@@ -6,6 +6,6 @@ void main() {
   dynamic name = 'ali';
   name = 123;
   var number = 123;
- // number = 'ali';
+  number = 'ali';
   number = 456;
 }
